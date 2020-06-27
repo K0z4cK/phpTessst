@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39f0c691-8d97-4c7e-93aa-a71f1a3922f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/iisexpress.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jenkinsfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/.idea/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bilka/blog/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/../bilka/blog/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connection_database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker/nginx/default.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker/php/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker/php/www.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../htdocs.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navbar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/alert.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/button.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/carousel.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/collapse.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/dropdown.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/modal.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/popover.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/scrollspy.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/tab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/toast.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/tooltip.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/dist/util.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/tools/sanitizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/js/src/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_interactions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/bootstrap/scss/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/dist/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/dist/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/dist/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/dist/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/external/sizzle/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/external/sizzle/dist/sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/external/sizzle/dist/sizzle.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/ajax/jsonp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/ajax/load.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/ajax/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/ajax/var/location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/ajax/var/nonce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/ajax/var/rquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/ajax/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/attributes/attr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/attributes/classes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/attributes/prop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/attributes/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/attributes/val.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/callbacks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/DOMEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/access.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/camelCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/isAttached.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/nodeName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/parseHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/parseXML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/ready-no-deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/ready.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/readyException.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/stripAndCollapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/toType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/core/var/rsingleTag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/addGetHookIf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/adjustCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/curCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/finalPropName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/showHide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/var/cssExpand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/var/getStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/var/isHiddenWithinTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/var/rboxStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/var/rnumnonpx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/css/var/swap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/data/Data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/data/var/acceptData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/data/var/dataPriv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/data/var/dataUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/deferred/exceptionHook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/deprecated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/deprecated/ajax-event-alias.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/deprecated/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/dimensions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/effects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/effects/Tween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/effects/animatedSelector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/event/focusin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/event/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/event/trigger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/exports/amd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/exports/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/manipulation/_evalUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/manipulation/buildFragment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/manipulation/getAll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/manipulation/setGlobalEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/manipulation/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/manipulation/var/rscriptType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/manipulation/var/rtagName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/manipulation/wrapMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/offset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/queue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/queue/delay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/selector-native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/selector-sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/serialize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/traversing/findFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/traversing/var/dir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/traversing/var/rneedsContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/traversing/var/siblings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/ObjectFunctionString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/arr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/class2type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/documentElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/flat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/fnToString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/getProto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/hasOwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/indexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/isFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/isWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/pnum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/push.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/rcheckableType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/rcssNum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/rnothtmlwhite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/slice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/var/toString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/jquery/src/wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/esm/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/esm/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/esm/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/esm/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/esm/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/esm/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/esm/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/esm/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/umd/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/umd/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/umd/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/umd/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/umd/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/umd/popper.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/umd/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/umd/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/dist/umd/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/methods/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/methods/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/methods/disableEventListeners.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/methods/enableEventListeners.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/methods/placements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/methods/update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/applyStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/arrow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/computeStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/flip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/hide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/inner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/keepTogether.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/offset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/preventOverflow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/modifiers/shift.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/clockwise.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/computeAutoPlacement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/debounce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/find.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/findCommonOffsetParent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/findIndex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getBordersSize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getBoundaries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getBoundingClientRect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getClientRect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getFixedPositionOffsetParent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getOffsetParent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getOffsetRect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getOffsetRectRelativeToArbitraryNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getOppositePlacement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getOppositeVariation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getOuterSizes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getParentNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getPopperOffsets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getReferenceNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getReferenceOffsets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getRoot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getRoundedOffsets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getScroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getScrollParent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getStyleComputedProperty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getSupportedPropertyName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getViewportOffsetRectRelativeToArtbitraryNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/getWindowSizes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/includeScroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/isBrowser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/isFixed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/isFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/isIE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/isModifierEnabled.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/isModifierRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/isNumeric.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/isOffsetContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/removeEventListeners.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/runModifiers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/setAttributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/setStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/popper.js/src/utils/setupEventListeners.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scripts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploads/2ABD768E-7EC9-4B34-AA0F-43F2B16EC333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploads/C68D9442-17E2-438A-A7F4-AEE7D4056148.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="myphp.local" id="969bf360-2879-400b-a880-21d9940a5dea" name="myphp.local" />
+      <server host="localhost" id="95658831-2799-4dde-afb7-5fff8b974179" name="localhost" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="C:/xampp/phpMyAdmin" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="ProjectId" id="1c5c5uxeLXcZvUPhet9A92Av1Bt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="registration.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/htdocs/registration.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.registration.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39f0c691-8d97-4c7e-93aa-a71f1a3922f7" name="Default Changelist" comment="" />
+      <created>1589821715061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589821715061</updated>
+      <workItem from="1589821717396" duration="17000" />
+      <workItem from="1589821755846" duration="30378000" />
+      <workItem from="1590671470713" duration="65000" />
+      <workItem from="1590962923874" duration="68000" />
+      <workItem from="1590963309313" duration="3166000" />
+      <workItem from="1591098191861" duration="1665000" />
+      <workItem from="1591185186791" duration="3066000" />
+      <workItem from="1591188857123" duration="1799000" />
+      <workItem from="1591617863778" duration="10522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590963323234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590963323234" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1591880716192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591880716192" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591274224207">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591274224207" />
+    <state width="1493" height="50" key="GridCell.Tab.0.bottom" timestamp="1591881794784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591881794784" />
+    <state width="1493" height="50" key="GridCell.Tab.0.center" timestamp="1591881794784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591881794784" />
+    <state width="1493" height="50" key="GridCell.Tab.0.left" timestamp="1591881794784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591881794784" />
+    <state width="1493" height="50" key="GridCell.Tab.0.right" timestamp="1591881794784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591881794784" />
+    <state width="1493" height="50" key="GridCell.Tab.1.bottom" timestamp="1591881794784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591881794784" />
+    <state width="1493" height="50" key="GridCell.Tab.1.center" timestamp="1591881794784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591881794784" />
+    <state width="1493" height="50" key="GridCell.Tab.1.left" timestamp="1591881794784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591881794784" />
+    <state width="1493" height="50" key="GridCell.Tab.1.right" timestamp="1591881794784">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591881794784" />
+    <state width="1493" height="50" key="GridCell.Tab.2.bottom" timestamp="1591881794785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591881794785" />
+    <state width="1493" height="50" key="GridCell.Tab.2.center" timestamp="1591881794785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1591881794785" />
+    <state width="1493" height="50" key="GridCell.Tab.2.left" timestamp="1591881794785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1591881794785" />
+    <state width="1493" height="50" key="GridCell.Tab.2.right" timestamp="1591881794785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="50" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1591881794785" />
+    <state x="681" y="414" key="NewPhpFileDialog" timestamp="1591706184351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="681" y="414" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1591706184351" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1590963450069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590963450069" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589898740774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589898740774" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/registration.php</url>
+          <line>52</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
